@@ -1,0 +1,29 @@
+Log level is set to Informational (Default).
+Source code repository not available. Some features may not work as expected.
+Connected to test environment '< Local Windows Environment >'
+Test data store opened in 0,106 sec.
+Using automatically detected runsettings file(s). To learn more visit https://aka.ms/vs-runsettings.
+Tests in projects that reference runsettings file 'F:\nanoframework\test\NFUnitTest1\NFUnitTest1\nano.runsettings' will not be discovered in parallel because it specifies the value for 'MaxCpuCount' as '1'.
+========== Starting test discovery ==========
+Test run detected DLL(s) which would use different framework and platform versions. Following DLL(s) do not match current settings, which are .NETFramework,Version=v4.8 framework and X64 platform.
+NFUnitTest.dll would use Framework .NETnanoFramework,Version=v1.0 and Platform X64.
+Go to https://aka.ms/tp/vstest/multitargetingdoc?view=vs-2019 for more details on managing these settings.
+Loaded 0 test records from the solution cache in 1,298 sec.
+[nanoTestAdapter]: Getting ready to discover tests...
+[nanoTestAdapter]: Settings parsed
+[nanoTestAdapter]:   New file processed: F:\nanoframework\test\NFUnitTest1\NFUnitTest1\bin\Debug\NFUnitTest.dll
+[nanoTestAdapter]: Finished adding files
+No test is available in F:\nanoframework\test\NFUnitTest1\NFUnitTest1\bin\Debug\NFUnitTest.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+========== Test discovery finished: 0 Tests found in 13 sec ==========
+Using automatically detected runsettings file(s). To learn more visit https://aka.ms/vs-runsettings.
+Tests in projects that reference runsettings file 'F:\nanoframework\test\NFUnitTest1\NFUnitTest1\nano.runsettings' will not be discovered in parallel because it specifies the value for 'MaxCpuCount' as '1'.
+========== Starting test discovery ==========
+Test run detected DLL(s) which would use different framework and platform versions. Following DLL(s) do not match current settings, which are .NETFramework,Version=v4.8 framework and X64 platform.
+NFUnitTest.dll would use Framework .NETnanoFramework,Version=v1.0 and Platform X64.
+Go to https://aka.ms/tp/vstest/multitargetingdoc?view=vs-2019 for more details on managing these settings.
+[nanoTestAdapter]: Getting ready to discover tests...
+[nanoTestAdapter]: Settings parsed
+[nanoTestAdapter]:   New file processed: F:\nanoframework\test\NFUnitTest1\NFUnitTest1\bin\Debug\NFUnitTest.dll
+[nanoTestAdapter]: Finished adding files
+No test is available in F:\nanoframework\test\NFUnitTest1\NFUnitTest1\bin\Debug\NFUnitTest.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+========== Test discovery finished: 0 Tests found in 1,4 sec ==========
